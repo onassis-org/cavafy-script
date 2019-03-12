@@ -1,0 +1,11 @@
+/* Webfont: CavafyScriptTT-Regular */@font-face {
+    font-family: 'CavafyScriptTT';
+    src: url('CavafyScriptTT.eot'); /* IE9 Compat Modes */
+    src: url('CavafyScriptTT.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('CavafyScriptTT.woff') format('woff'), /* Modern Browsers */
+         url('CavafyScriptTT.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
